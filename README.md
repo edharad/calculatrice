@@ -57,4 +57,4 @@ Les contributions sont les bienvenues! Veuillez soumettre une pull request ou ou
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. 
